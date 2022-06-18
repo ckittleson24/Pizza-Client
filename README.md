@@ -1,4 +1,4 @@
-REGARDING SKYTILS USERS: https://imgur.com/a/N8ckKlD <---
+REGARDING SKYTILS USERS: https://imgur.com/a/N8ckKlD <--- (VERY IMPORTANT!! PLEASE READ) <---
 
 - Download: https://github.com/AstrqlDev/Pizza-Client/releases/tag/Release
 
