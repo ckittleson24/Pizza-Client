@@ -30,12 +30,12 @@ public abstract class FarmingMacro extends Macro
     
     @Override
     public Locations getLocation() {
-        return Locations.PRIVATEISLAND;
+        return Locations.GARDEN;
     }
     
     @Override
     public void warpBack() {
-        Locations.PRIVATEISLAND.warpTo();
+        Locations.GARDEN.warpTo();
     }
     
     @Override
